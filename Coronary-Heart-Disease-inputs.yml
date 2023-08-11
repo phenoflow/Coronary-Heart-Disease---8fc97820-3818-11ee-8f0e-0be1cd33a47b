@@ -1,0 +1,99 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/coronary-heart-disease-chd-angina---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-heart-disease-chd-control---primary.py
+inputModule4:
+  class: File
+  path: python/coronary-heart-disease-chd-worsening---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-heart-disease-chd-monitoring---primary.py
+inputModule6:
+  class: File
+  path: python/coronary-heart-disease-chd-review---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-heart-disease-chd---primary.py
+inputModule8:
+  class: File
+  path: python/coronary-heart-disease-chd-ischaemia---primary.py
+inputModule9:
+  class: File
+  path: python/atherosclerotic-coronary-heart-disease-chd---primary.py
+inputModule10:
+  class: File
+  path: python/myocardal-coronary-heart-disease-chd---primary.py
+inputModule11:
+  class: File
+  path: python/coronary-heart-disease-chd-attack---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-heart-disease-chd-thrombosis---primary.py
+inputModule13:
+  class: File
+  path: python/coronary-heart-disease-chd-ruptur---primary.py
+inputModule14:
+  class: File
+  path: python/coronary-heart-disease-chd-preinfarction---primary.py
+inputModule15:
+  class: File
+  path: python/coronary-heart-disease-chd-subacute---primary.py
+inputModule16:
+  class: File
+  path: python/coronary-heart-disease-chd-dressler's---primary.py
+inputModule17:
+  class: File
+  path: python/unstable-coronary-heart-disease-chd---primary.py
+inputModule18:
+  class: File
+  path: python/coronary-heart-disease-chd-insufficiency---primary.py
+inputModule19:
+  class: File
+  path: python/coronary-heart-disease-chd-infarct---primary.py
+inputModule20:
+  class: File
+  path: python/subendocardial-coronary-heart-disease-chd---primary.py
+inputModule21:
+  class: File
+  path: python/coronary-heart-disease-chd-pectoris---primary.py
+inputModule22:
+  class: File
+  path: python/coronary-heart-disease-chd-decubitus---primary.py
+inputModule23:
+  class: File
+  path: python/coronary-heart-disease-chd-artery---primary.py
+inputModule24:
+  class: File
+  path: python/coronary-heart-disease-chd-anginosus---primary.py
+inputModule25:
+  class: File
+  path: python/coronary-heart-disease-chd-stenocardia---primary.py
+inputModule26:
+  class: File
+  path: python/coronary-heart-disease-chd-vessel---primary.py
+inputModule27:
+  class: File
+  path: python/current-coronary-heart-disease-chd---primary.py
+inputModule28:
+  class: File
+  path: python/coronary-heart-disease-chd-forms---primary.py
+inputModule29:
+  class: File
+  path: python/ischaemic-coronary-heart-disease-chd---primary.py
+inputModule30:
+  class: File
+  path: python/coronary-heart-disease-chd-hypertension---primary.py
+inputModule31:
+  class: File
+  path: python/asymptomatic-coronary-heart-disease-chd---primary.py
+inputModule32:
+  class: File
+  path: python/coronary-heart-disease-chd-effort---primary.py
+inputModule33:
+  class: File
+  path: python/output-cases.py
